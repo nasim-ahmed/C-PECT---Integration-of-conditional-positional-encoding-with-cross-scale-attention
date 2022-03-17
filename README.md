@@ -53,4 +53,4 @@ To evaluate the mAP of CPECT on COCO  using 2 gpus based on  the Retina framewor
 bash dist_test.sh configs/mask_rcnn_spt_cpect_1x_coco.py checkpoint_file 2   --eval mAP
 ```
 ## Acknowledgement
-We heavily borrow the code from [TWINS](https://github.com/Meituan-AutoML/Twins) and [CROSSFormer](https://github.com/cheerss/CrossFormer). Many thanks to them.
+We partially borrow the code from [TWINS](https://github.com/Meituan-AutoML/Twins) and [CROSSFormer](https://github.com/cheerss/CrossFormer). Many thanks to them.
