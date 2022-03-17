@@ -19,6 +19,9 @@ conda install -c pytorch pytorch torchvision
 pip install timm==0.3.2
 ```
 
+## Pretrained Model
+Coming Soon!!!!
+
 ## Data preparation
 
 Download and extract COCO dataset train2017, val2017 and test2017 images from https://cocodataset.org. Create a data folder inside detection and paste the coco folder there.
